@@ -1,4 +1,4 @@
-package OxygenGo
+package oxygengo
 
 func main() {
   
